@@ -1,6 +1,2 @@
 plugins:
   - jekyll-redirect-from
-title: DHRUVISMS
-redirect_to:
-  - https://youtu.be/dQw4w9WgXcQ
-permalink: /
